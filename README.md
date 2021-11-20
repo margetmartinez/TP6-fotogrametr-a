@@ -10,6 +10,7 @@
 ## Serie Temporal Enero-Diciembre 2015
 ### Gráficos
 ### Mapa
+![imagen](Mapa2015.png)
 
 ## Caso de Estudio: Sequía Región Chorotega (2014-2015)
 ### Gráficos

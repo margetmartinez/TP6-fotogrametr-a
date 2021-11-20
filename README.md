@@ -4,9 +4,9 @@
 
 ## Serie Temporal 2000-2016
 ### Gráficos
-![imagen](Mapa2000.png)
-### Mapa
 
+### Mapa
+![imagen](Mapa2000.png)
 ## Serie Temporal Enero-Diciembre 2015
 ### Gráficos
 ### Mapa

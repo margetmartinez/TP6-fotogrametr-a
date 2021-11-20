@@ -15,6 +15,7 @@
 
 ## Caso de Estudio: Sequía Región Chorotega (2014-2015)
 ### Gráficos
+
 ![imagen](Graficos20142015.png)
 ### Mapa
 

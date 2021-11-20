@@ -1,1 +1,2 @@
-# TP6-fotogrametr-a
+# Laboratorio 6
+

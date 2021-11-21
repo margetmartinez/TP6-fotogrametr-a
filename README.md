@@ -6,16 +6,22 @@
 ### Gráficos
 ![imagen](Graficos2000.png)
 ### Mapa
+### Resultados y Análisis
+
 ![imagen](Mapa2000.png)
 ## Serie Temporal Enero-Diciembre 2015
 ### Gráficos
 ![imagen](Graficos2015.png)
 ### Mapa
 ![imagen](Mapa2015.png)
+### Resultados y Análisis
 
 ## Caso de Estudio: Sequía Región Chorotega (2014-2015)
 ### Gráficos
 ![imagen](GraficosCaso.png)
 ### Mapa
 ![imagen](Mapa1415.png)
-## Resultados
+
+## Resultados y Análisis 
+
+## Conclusiones

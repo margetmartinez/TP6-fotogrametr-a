@@ -19,6 +19,11 @@
 ### Mapa
 ![imagen](Mapa2015.png)
 ### Resultados y Análisis
+1. En esta serie temporal, al ser mucho menos datos que la serie anterior. Se puede ver con más detalle el comportamiento de la temperatura a lo largo de 12 meses. Por ejemplo, es más fácil identificar la época seca de la época lluviosa. 
+2. En el primer gráfico (Temperatura de día), hay una mayor variabilidad. Los picos de temperatura se registran durante los meses de marzo, abril y mayo, llegando a 32°C aproximadamente. A partir de junio la temperatura desciende y en agosto hasta octubre es constante. Hasta que se llega a noviembre y se registra el pico más bajo de 26°C aproximadamente. 
+3. El segundo gráfico (Temperatura de noche), prácticamente es constante durante todo el año, con excepción de tres picos bajos. El primero de 13°C (el más bajo de todos) registrado en junio, el segundo de 14°C registrado entre julio y agosto y el último de 17°C registrado entre octubre-noviembre. 
+4. En los mapas, se observa cómo las temperaturas altas se distribuyen en las zonas bajas, principalmente en la provincia Guanacaste. Y las temperaturas bajas se distribuyen en las zonas altas como las cordilleras, principalmente en la cordillera de Talamanca. 
+
 
 ## Caso de Estudio: Sequía Región Chorotega (2014-2015)
 ### Gráficos

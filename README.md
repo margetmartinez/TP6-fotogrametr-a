@@ -17,5 +17,5 @@
 ### Gráficos
 ![imagen](GraficosCaso.png)
 ### Mapa
-![imagen](Mapa14.png)
+![imagen](Mapa1415.png)
 ## Resultados

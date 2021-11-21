@@ -24,7 +24,7 @@
 ### Gráficos
 ![imagen](GraficosCaso.png)
 ### Mapa
-
+![imagen](Mapa2014.png)
 ### Resultados y Análisis 
 
 ## Conclusiones

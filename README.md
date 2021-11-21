@@ -31,5 +31,10 @@
 ### Mapa
 ![imagen](Mapa2014.png)
 ### Resultados y Análisis 
+1. Los gráficos muestran que las máximas temperaturas en la región Chorotega se registraron durante el primer semestre del año 2015. La máxima temperatura fue de 35°C en el mes de abril. Pero desde el inicio del mes de marzo la temperatura tuvo un ascenso y se mantuvo constante hasta el mes de julio cuando descienden. En el mes de junio se registra la temperatura más baja de 25°C. El segundo periodo en el cual se registraron altas temperaturas, es de nuevo el primer semestre pero del año 2014. En este periodo las temperaturas altas son más constantes que las del año 2015, pero se mantuvieron por debajo de los 35°C. Sin embargo, las temperaturas no bajaron de los 27°C. 
+
+2. Para los segundos semestres tanto del 2014 como del 2015, las temperaturas estuvieron entre los 24°C y 32°C. Siguiendo un patrón de descenso desde julio hasta diciembre. Con estos resultados, se refleja la estacionalidad climática. Los primeros seis meses del año son más calientes y se relaciona con la época seca; en el segundo semestre los meses son más fríos relacionado con la época lluviosa. Aunque, claramente también están relacionadas con otros fenómenos climáticos como el ENOS o el fenómeno de la Niña, entre otros. 
+
+3. Los mapas apoyan los gráficos, y se observa la distribución de las temperaturas coincidiendo en los cuatro periodos. Pero principalmente, lo que se señaló anteriormente, los primeros semestres registraron las más altas temperaturas. Siendo el primer semestre del 2015 el de temperaturas más altas. Estas altas temperaturas se registraron en su mayoría en las zonas urbanas, planicies y cerca de las costas. 
 
 ## Conclusiones

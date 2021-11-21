@@ -37,4 +37,6 @@
 
 3. Los mapas apoyan los gráficos, y se observa la distribución de las temperaturas coincidiendo en los cuatro periodos. Pero principalmente, lo que se señaló anteriormente, los primeros semestres registraron las más altas temperaturas. Siendo el primer semestre del 2015 el de temperaturas más altas. Estas altas temperaturas se registraron en su mayoría en las zonas urbanas, planicies y cerca de las costas. 
 
+4.Con lo mencionado anteriormente, los momentos de sequía severa se pueden dar durante el primer semestre del año. Se concentra específicamente de marzo a mayo. Si el Instituto de Acueductos y Alcantarillados desea prepararse mejor para futuras sequías, debe tomar medidas para este periodo del año. 
+
 ## Conclusiones

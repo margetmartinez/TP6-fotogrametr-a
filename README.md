@@ -82,3 +82,14 @@ La imagen muestra los resultados de la detección de incendios. En la imagen A) 
 Como vimos anteriormente, la teledectección térmica nos permite realizar distintos tipos de estudio en la superficie terrestre debido a sus características de radiancia. Podemos realizar desde monitoreos de incendios forestales hasta estudiar la dinámica de inundaciones de una región. Parte de esto se pudo observar en el estudio de caso de la región Chorotega con el monitoreo de sequías. Gracias a ello pudimos localizar las áreas donde se concentra mucho más la temperatura y que indican una pérdida de vegetación y aumento de incendios forestales.Al conocer los focos de temperatura, es posible un mejor manejo y una respuesta mucho más rápida ante eventuales eventos de sequía en próximos años. 
 
 Por otro lado, con las series temporales podemos elevar los estudios y análisis a otro nivel, ya que con estos podemos estudiar patrones y comportamientos de distintos factores en la superficie terrestre en un periodo determinado de tiempo. Como lo vimos en los dos casos expuestos anteriormente, este nos permite observar esos picos de temperatura y por ende, estudiar y analizar la fuente o la causa de ello. Es por esto que combinar ambas da una resultado muy beneficioso para los diversos estudios de la Tierra.
+
+# Referencias
+
+- Lira., A & Guevara., B. (s.f). COMPRENSIÓN DE LOS CONCEPTOS DE IRRADIANCIA Y RADIANCIA PARA LOS ESPACIOS ARQUITECTÓNICOS ASÍ CÓMO LAS UNIDADES RADIOMÉTRICAS Y FOTOMÉTRICAS. Práctica 15. Irradiancia y Radianza , Facultad de Arquitectura, Universidad Nacional Autónoma de México, http://leias.fa.unam.mx/wp-content/uploads/2018/07/180515_Practica15_LES.pdf.
+
+- Muñoz, C., Acevedo,P., Salvo, S., Fagalde, G., & Vargas, F . (2007). Detección de incendios forestales utilizando imágenes NOAA/16-LAC en la Región de La Araucanía, Chile. Bosque(Valdivia), Vol. 28 n.2, https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-92002007000200004.
+
+- Sobrino, J., Soria, G., Jiménez, J., Amorós, J., Bustamante, J., & Díaz, R. (2010). Teledetección térmica en la Reserva Biológica de Doñana.  https://www.researchgate.net/publication/236586614_Teledeteccion_termica_en_la_Reserva_Biologica_de_Donana
+
+- Teledetección. (s.f). TALLER - TELEDETECCIÓN TÉRMICA DE IMÁGENES LANDSAT
+HISTÓRICAS CON GVSIG. Universidad de Costa Rica, Escuela de Geografía. http://downloads.gvsig.org/download/documents/learning/collaborations/Taller_Teledeteccion_termica_2019-11/Taller_Teledeteccion_termica_gvSIG-Tutorial.pdf

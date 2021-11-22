@@ -6,6 +6,11 @@
 
 Esta describe la cantidad de radiación o de energía que es enviada o emitida por un área o superficie emisora en particular, en una dirección con un ángulo sólido hacia el sensor en una dirección específica. Los cuerpos emiten radiación en todo el intervalo del espectro solar, más que todo en la zona del infrarrojo. Por lo que si se mide la radianza de un cuerpo con todo el espectro electromagnético, lo que se obtiene es la radianza espectral del cuerpo. El máximo nos indicaría la temperatura del cuerpo. Esta se mide en unidades radiométricas W/m2 sr, por ser un ángulo sólido (Lira & Guevara, 2017).
 
+- Cuerpos negros
+
+Estos son radiadores hipotéticos e ideales que absorben y remiten totalmente toda la energía que incide sobre él. En este caso, si el cuerpo emisor de la radiación cumple con las características de cuerpo negro que está en equilibrio termodinámico, esta radiación se llama “radiación de cuerpo negro”. Esta energía radiante va a depender de la temperatura y la longitud de onda. Por otro lado, la **emisividad** es un coeficiente que se encarga de medir la eficiencia con la que un objeto llega a irradiar energía y a su vez la compara con la eficicencia de un cuerpo negro. Los materiales reales no se comportan como un cuerpo negro, debido a que ningún material es capaz de aborver toda la energía que llega a él y tampoco irradia toda la energía que recibe, sólo una fracción de esta. Como vemos, los objetos emiten la energía de manera distinta, por ejemplo, un cuerpo a temperatura ambiente no emite mucha energía radiante y sus longitudes de onda suelen ser más largas que el espectro visible. Conforme aumenta la temperatura, la energía emitida es mayor. También, las superficies más oscuras y de textura “mate” tienden a emitir más energía que las superficies brillantes. Por lo que de acuerdo a la ley de Kirchhoff, estos cuerpos que son buenos emisores de energía, son también buenos absorbentes. 
+
+
 ## Serie Temporal 2000-2016
 ### Gráficos
 ![imagen](Graficos2000.png)

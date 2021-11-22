@@ -1,6 +1,10 @@
 # Laboratorio 6
 
 ## Introducción
+- Transmitancia
+- Radianza
+
+Esta describe la cantidad de radiación o de energía que es enviada o emitida por un área o superficie emisora en particular, en una dirección con un ángulo sólido hacia el sensor en una dirección específica. Los cuerpos emiten radiación en todo el intervalo del espectro solar, más que todo en la zona del infrarrojo. Por lo que si se mide la radianza de un cuerpo con todo el espectro electromagnético, lo que se obtiene es la radianza espectral del cuerpo. El máximo nos indicaría la temperatura del cuerpo. Esta se mide en unidades radiométricas W/m2 sr, por ser un ángulo sólido (Lira & Guevara, 2017).
 
 ## Serie Temporal 2000-2016
 ### Gráficos

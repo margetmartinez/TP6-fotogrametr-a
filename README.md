@@ -1,11 +1,12 @@
 # Laboratorio 6
 
 ## Introducción
+
 1. Transmitancia
 
 Corresponde a la luz incidente que pasa a través de una superficie receptora. Esta corresponde a un valor que mide la cantidad de luz o ondas que pasan de un lado a otro de una superficie. Para así, comparar la cantidad de luz que entra con la cantidad de luz que sale del objeto.
 
-2. Radianza
+2. Radiancia
 
 Esta describe la cantidad de radiación o de energía que es enviada o emitida por un área o superficie emisora en particular, en una dirección con un ángulo sólido hacia el sensor en una dirección específica. Los cuerpos emiten radiación en todo el intervalo del espectro solar, más que todo en la zona del infrarrojo. Por lo que si se mide la radianza de un cuerpo con todo el espectro electromagnético, lo que se obtiene es la radianza espectral del cuerpo. El máximo nos indicaría la temperatura del cuerpo. Esta se mide en unidades radiométricas W/m2 sr, por ser un ángulo sólido (Lira & Guevara, 2017).
 
@@ -19,7 +20,11 @@ De acuerdo a la lectura vista en clase, estos son radiadores hipotéticos e idea
 
 En el taller titulado *“Teledetección térmica de imágenes Landsat históricas con gvSIG”* realizado por la Escuela de Geografía de la Universidad de Costa Rica, utilizaron la teledetección térmica para obtener la temperatura del suelo a partir de los valores de brillo de la banda térmica de las imágenes satelitales. Para ello, primero se corrigieron los efectos de la absorción atmosférica y de la emisividad de la superficie. Por ello se obtiene un mapa de emisividad a partir de un índice de vegetación al cual se le realizan cálculos con la calculadora raster para obtener el mapeado de la emisividad de la imagen. Luego se transforman los niveles digitales de la imagen a radiancia relacionada con el terreno, este paso es fundamental para poder comprar datos de múltiples sensores. Por lo que luego se obtiene la temperatura superficial a partir de radiancias. 
 
+![image](https://github.com/margetmartinez/TP6-fotogrametr-a/blob/main/gvSIG.png)
 
+La primera imágen de izquierda a derecha, muestra como la máxima emisividad corresponde a las áreas de gran cantidad de vegetación, mientras que la mínima es por el agua. La segunda muestra un ráster con radiancias corregidas, que reduce los efectos atmosféricos y muestra valores referidos al terreno. La última representa un mapa donde los valores de píxel representan las temperaturas del suelo en grados Celsius.
+
+- 
 ## Serie Temporal 2000-2016
 ### Gráficos
 ![imagen](Graficos2000.png)

@@ -75,6 +75,10 @@ La imagen muestra los resultados de la detección de incendios. En la imagen A) 
 
 3. Los mapas apoyan los gráficos, y se observa la distribución de las temperaturas coincidiendo en los cuatro periodos. Pero principalmente, lo que se señaló anteriormente, los primeros semestres registraron las más altas temperaturas. Siendo el primer semestre del 2015 el de temperaturas más altas. Estas altas temperaturas se registraron en su mayoría en las zonas urbanas, planicies y cerca de las costas. 
 
-4.Con lo mencionado anteriormente, los momentos de sequía severa se pueden dar durante el primer semestre del año. Se concentra específicamente de marzo a mayo. Si el Instituto de Acueductos y Alcantarillados desea prepararse mejor para futuras sequías, debe tomar medidas para este periodo del año. 
+4. Con lo mencionado anteriormente, los momentos de sequía severa se pueden dar durante el primer semestre del año. Se concentra específicamente de marzo a mayo. Si el Instituto de Acueductos y Alcantarillados desea prepararse mejor para futuras sequías, debe tomar medidas para este periodo del año. 
 
 ## Conclusiones
+
+Como vimos anteriormente, la teledectección térmica nos permite realizar distintos tipos de estudio en la superficie terrestre debido a sus características de radiancia. Podemos realizar desde monitoreos de incendios forestales hasta estudiar la dinámica de inundaciones de una región. Parte de esto se pudo observar en el estudio de caso de la región Chorotega con el monitoreo de sequías. Gracias a ello pudimos localizar las áreas donde se concentra mucho más la temperatura y que indican una pérdida de vegetación y aumento de incendios forestales.Al conocer los focos de temperatura, es posible un mejor manejo y una respuesta mucho más rápida ante eventuales eventos de sequía en próximos años. 
+
+Por otro lado, con las series temporales podemos elevar los estudios y análisis a otro nivel, ya que con estos podemos estudiar patrones y comportamientos de distintos factores en la superficie terrestre en un periodo determinado de tiempo. Como lo vimos en los dos casos expuestos anteriormente, este nos permite observar esos picos de temperatura y por ende, estudiar y analizar la fuente o la causa de ello. 

@@ -15,7 +15,11 @@ De acuerdo a la lectura vista en clase, estos son radiadores hipotéticos e idea
 
 4. Aplicaciones que tiene la teledetección térmica
 
-- 
+- Teledetección térmica para la obtención de la temperatura del suelo con gvSIG
+
+En el taller titulado *“Teledetección térmica de imágenes Landsat históricas con gvSIG”* realizado por la Escuela de Geografía de la Universidad de Costa Rica, utilizaron la teledetección térmica para obtener la temperatura del suelo a partir de los valores de brillo de la banda térmica de las imágenes satelitales. Para ello, primero se corrigieron los efectos de la absorción atmosférica y de la emisividad de la superficie. Por ello se obtiene un mapa de emisividad a partir de un índice de vegetación al cual se le realizan cálculos con la calculadora raster para obtener el mapeado de la emisividad de la imagen. Luego se transforman los niveles digitales de la imagen a radiancia relacionada con el terreno, este paso es fundamental para poder comprar datos de múltiples sensores. Por lo que luego se obtiene la temperatura superficial a partir de radiancias. 
+
+
 ## Serie Temporal 2000-2016
 ### Gráficos
 ![imagen](Graficos2000.png)

@@ -24,6 +24,14 @@ En el taller titulado *“Teledetección térmica de imágenes Landsat históric
 
 La primera imágen de izquierda a derecha, muestra como la máxima emisividad corresponde a las áreas de gran cantidad de vegetación, mientras que la mínima es por el agua. La segunda muestra un ráster con radiancias corregidas, que reduce los efectos atmosféricos y muestra valores referidos al terreno. La última representa un mapa donde los valores de píxel representan las temperaturas del suelo en grados Celsius.
 
+- Teledetección térmica para el estudio de la dinámica de inundación con AHS
+
+En el artículo titulado *”Teledetección térmica en la Reserva Biológica de Doñana”* se utilizaron imágenes de alta resolución mediante el sensor AHS junto con la colocación de radiómetros térmicos para obtener datos diarios y así calibrar y validar periódicamente las imágenes proporcionadas por los satélites. Por lo que se procedió a caracterizar radiometricamente las distintas superficies presentes en la Reserva Biológica de Doñana a través de la medida de espectros de reflectividad y emisividad. También se realizaron productos de temperatura y emisividad de la superficie terrestre derivados también por las imágenes AHS y obtenidos mediante el algoritmo Temperature and Emissivity Separation (TES).
+
+![image](https://github.com/margetmartinez/TP6-fotogrametr-a/blob/main/AHS.png)
+
+La imagen muestra la temperatura de la superficie terrestre y un constraste espectral para una región cercana a la costa realizado en una imagen AHS en 2008.
+
 - 
 ## Serie Temporal 2000-2016
 ### Gráficos

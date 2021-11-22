@@ -32,7 +32,14 @@ En el artículo titulado *”Teledetección térmica en la Reserva Biológica de
 
 La imagen muestra la temperatura de la superficie terrestre y un constraste espectral para una región cercana a la costa realizado en una imagen AHS en 2008.
 
-- 
+- Teledetección térmica para detección de incendios forestales con NOAA/16-AVHRR
+
+En el artículo *”Detección de incendios forestales utilizando imágenes NOAA/16-LAC en la Región de La Araucanía, Chile”*, se utilizaron imágenes satelitales para la detección de fuegos forestales. Para ello se analizaron 33 imágenes pertenecientes al sensor NOAA/16-AVHRR, siendo uno de los más utilizados para la detección de incendios forestales debido a sus tres bandas térmicas. Esto es posible gracias a que las fuentes de alta temperatura provocan un notable incremento en la radiación emitida en las longitudes de onda, lo que permite que se perciban hasta una porción de píxel. A pesar de ello se presentan complicaciones debido a que detectan más que todo el fuego y no las áreas ya quemadas, esto debido a la disminución de la temperatura en estas áreas, lo que reduce la reflectancia.
+
+![image](https://github.com/margetmartinez/TP6-fotogrametr-a/blob/main/NOAA.png)
+
+La imagen muestra los resultados de la detección de incendios. En la imagen A) se pueden ver como rombos blancos y en la B) como rombos negros. Se puede observar una detección fallida debido a que capta las nubes erróneamente como un punto de fuego.
+
 ## Serie Temporal 2000-2016
 ### Gráficos
 ![imagen](Graficos2000.png)
